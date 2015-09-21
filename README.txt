@@ -1,0 +1,1 @@
+Le projet TP de l'activité 2 présentant Git et GitHub, afin d'acquérir les fondamentaux sur cette outil de versionning.
