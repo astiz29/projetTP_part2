@@ -11,6 +11,7 @@
 		<a href="#">Consulter les mentions légales</a>
 		<b>Nouvelle modification</b>
 	</footer>
+	<?php echo "salut toto"; ?>
 </body>
 
 </html>
