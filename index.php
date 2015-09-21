@@ -9,6 +9,7 @@
 	<?php echo "hello world"; ?>
 	<footer>
 		<a href="#">Consulter les mentions légales</a>
+		<b>Nouvelle modification</b>
 	</footer>
 </body>
 
